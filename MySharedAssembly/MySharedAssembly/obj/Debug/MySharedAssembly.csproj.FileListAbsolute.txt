@@ -1,0 +1,5 @@
+C:\Users\cjbq4f\Box Sync\MySharedAssembly\MySharedAssembly\bin\Debug\MySharedAssembly.dll
+C:\Users\cjbq4f\Box Sync\MySharedAssembly\MySharedAssembly\bin\Debug\MySharedAssembly.pdb
+C:\Users\cjbq4f\Box Sync\MySharedAssembly\MySharedAssembly\obj\Debug\MySharedAssembly.csprojResolveAssemblyReference.cache
+C:\Users\cjbq4f\Box Sync\MySharedAssembly\MySharedAssembly\obj\Debug\MySharedAssembly.dll
+C:\Users\cjbq4f\Box Sync\MySharedAssembly\MySharedAssembly\obj\Debug\MySharedAssembly.pdb

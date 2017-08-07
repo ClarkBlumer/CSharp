@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<script>
+
+		</script>
+
+		<style>
+			body {
+				font-family: arial;
+				background-color: rgb(214,211,203);
+			}
+			
+			#topHeader {
+				height: 65px;
+				position: relative;
+				top: 35px;
+			}
+
+
+			#name {
+				font-family: arial;
+				//font-size: 38pt;
+			}
+
+			#navigationBar {
+				border-bottom: 2px solid black;
+				border-top: 2px solid black;
+				height: 47px;
+				width: auto;
+			}
+
+			.navigationButtons {
+				position: relative;
+				padding-top: 12px;
+				width: 100px;
+				height: 35px;
+				text-align: center;
+				float: left;
+			}
+			.clearFloat {
+				clear: both;
+			}
+
+			.navigationButtons:hover {
+				background-color: darkgray;
+				color: white;
+			}
+
+			#bodyWrapper {
+				/*-webkit-column-count: 1;
+				-moz-column-count: 1;
+				column-count: 1;
+
+				-webkit-column-rule: 3px offset black;
+				-moz-columna-rule: 3px offset black;
+				column-rule: 3px offset black;*/
+				min-width: 500px;
+				min-height: 500px;
+			}
+
+			.imgColumn {
+				border: 1px dotted black;
+				min-height: 300px;
+				min-width: 150px;
+			}
+
+			.images {
+				margin: auto;	
+				margin-top: 50px;
+				max-width: 500px;
+				max-height: 500px;					
+			}
+
+			img {
+				max-height: 500px;
+				max-width: 500px;
+				border: 20px solid white;
+			}
+
+		</style>
+	</head>
+
+	<body>
+		<!-- HEADER AND NAVIGATION BAR -->
+		<div id="topHeader">
+			<h1 id="name">Shana Prusha Portfolio</h1>
+		</div>
+		<div id="navigationBar">
+			<div id="paintings" class="navigationButtons">Paintings</div>
+			<div id="drawings" class="navigationButtons">Drawings</div>
+			<div id="digitals" class="navigationButtons">Digitals</div>
+			<div id="photos" class="navigationButtons">Photography</div>
+			<div id="bio" class="navigationButtons">Bio</div>
+			<div id="contact" class="navigationButtons">Contact</div>
+
+			<div class="clearFloat"></div>
+		</div>
+
+		<!-- BODY OF THE WEBPAGE -->
+		<div id="bodyWrapper" class="group">
+			<div class="images"><img src="lakes.jpg"></div>
+		</div>
+	</body>
+</html>

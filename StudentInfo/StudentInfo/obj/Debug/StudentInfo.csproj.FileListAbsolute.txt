@@ -1,0 +1,15 @@
+C:\Users\cjbq4f\Box Sync\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\MainWindow.g.cs
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\App.g.cs
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo_MarkupCompile.cache
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo_MarkupCompile.lref
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\MainWindow.baml
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo.g.resources
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.Cache
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\Jarrad\Box Sync\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb

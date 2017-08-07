@@ -1,0 +1,83 @@
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\App.g.cs
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+c:\users\cjbq4f\documents\visual studio 2015\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\cjbq4f\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Jarrad\Box Sync\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Jarrad\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\cjbq4f\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\App.g.cs
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\cjbq4f\Box Sync\TextEditor_Fixes\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
